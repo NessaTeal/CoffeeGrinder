@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrades>
+	<upgrade name = "Bigger bushes" type = "bush" gain = "2" price = "100"/>
+	<upgrade name = "Bigger trees" type = "plantation" gain = "3" price = "300"/>
+	<upgrade name = "Bigger farm" type = "farm" gain = "4" price = "1000"/>
+	<upgrade name = "Bigger city" type = "city" gain = "5" price = "2700"/>
+	<upgrade name = "Bigger island" type = "island" gain = "6" price = "5000"/>
+	<upgrade name = "Bigger magic" type = "java" gain = "7" price = "15000"/>
+	<upgrade name = "Biggest bushes" type = "bush" gain = "4" price = "25000"/>
+	<upgrade name = "Biggest trees" type = "plantation" gain = "7" price = "50000"/>
+	<upgrade name = "Biggest farm" type = "farm" gain = "10" price = "100000"/>
+	<upgrade name = "Biggest city" type = "city" gain = "15" price = "270000"/>
+	<upgrade name = "Biggest island" type = "island" gain = "20" price = "600000"/>
+	<upgrade name = "Biggest magic" type = "java" gain = "25" price = "10000000"/>
+</upgrades>
